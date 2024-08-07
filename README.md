@@ -1,1 +1,1 @@
-This ia a Amazon-Clone created with React.js
+This ia an Amazon-Clone created with React.js
