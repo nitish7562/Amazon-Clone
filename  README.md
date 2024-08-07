@@ -1,2 +1,2 @@
-# New React Project 
-# Amazon Clone with React.js
+## New React Project 
+## Amazon Clone with React.js
